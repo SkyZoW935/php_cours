@@ -37,7 +37,6 @@ $person1->setLastname("Doe");
 
 var_dump($person1->speak());
 
-
 //var_dump($person1->getFirstname());
 //var_dump($person1->getLastname());
 
@@ -49,5 +48,5 @@ $person2->setFirstname("Jane");
 $person2->setLastname("Die");
 
 var_dump($person2->speak());
-//var_dump($person2);
+
 
